@@ -1,2 +1,2 @@
 # Farmapp-application
-this is a react native farmapp application
+React Native Farmapp Application
